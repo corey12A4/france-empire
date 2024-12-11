@@ -1,7 +1,7 @@
 [
 	{
 		"name": "đế quốc pháp",
-		"leaderName": "mày",
+		"leaderName": "pháp",
 		"adjective": ["alien"],
 		"startBias": ["grassland"],
 		"preferredVictoryType": "domination",
@@ -9,7 +9,7 @@
 		"startIntroPart1": "thuộc địa!!! xông lên! bù nhìn và nô lệ!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "kháng cự là vô ích, mày có nghe tiếng súng của bọn ngự lâm?",
+		"declaringWar": "kháng cự là vô ích, mày có nghe tiếng súng của bọn ngự lâm ở ngoài thành mày không?",
 		"attacked": "thế là mày chưa thấy bọn lính ngự lâm đầy kỉ luật của bọn tao rồi!",
 		"defeated": "mày chả khác gì bọn tao! đừng lo bọn tao sẽ còn ám mày dài dài.",
 		"introduction": "bonjour, xin tự giới thiệu bọn ta là pháp với những chính sách vô cùng thú vị",
@@ -22,7 +22,7 @@
 		"hateHello": "mày muốn cái mẹ gì?",
 		"hateLetsHearIt": ["thật phí thời gian, nói nhanh lên!"],
 		"hateNo": ["có con cặc bọn tao đồng ý, cút!"],
-		"hateYes": ["cũng được... mẹ bọn lồn!"],
+		"hateYes": ["đề nghị của mày như củ cặc... nhưng tao còn đường nào cơ chứ? tao đồng ý"],
 		
 		"afterPeace": "aizzz cuộc chiến có vẻ đã chán rồi",
 		"tradeRequest": "bọn pháp chúng tao có rất nhiều món đồ thú vị để trao đổi!",
@@ -30,6 +30,6 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "thực dân",
-		"cities": ["paris" "thành phố pháp 2" "thành phố pháp 3" "thành phố pháp 4" "thành phố pháp 5"]
+		"cities": ["paris", "thành phố pháp 2", "thành phố pháp 3", "thành phố pháp 4", "thành phố pháp 5"]
 	}
 ]
