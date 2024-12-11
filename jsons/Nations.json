@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "đế quốc pháp",
+		"leaderName": "mày",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["grassland"],
+		"preferredVictoryType": "domination",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "thuộc địa!!! xông lên! bù nhìn và nô lệ!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "kháng cự là vô ích, mày có nghe tiếng súng của bọn ngự lâm?",
+		"attacked": "thế là mày chưa thấy bọn lính ngự lâm đầy kỉ luật của bọn tao rồi!",
+		"defeated": "mày chả khác gì bọn tao! đừng lo bọn tao sẽ còn ám mày dài dài.",
+		"introduction": "bonjour, xin tự giới thiệu bọn ta là pháp với những chính sách vô cùng thú vị",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "chào, ngươi sao rồi",
+		"neutralLetsHearIt": ["sao ngươi muốn gì thì nói luôn đi!"],
+		"neutralNo": ["bọn tao từ chối"],
+		"neutralYes": ["được đấy"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "mày muốn cái mẹ gì?",
+		"hateLetsHearIt": ["thật phí thời gian, nói nhanh lên!"],
+		"hateNo": ["có con cặc bọn tao đồng ý, cút!"],
+		"hateYes": ["cũng được... mẹ bọn lồn!"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "aizzz cuộc chiến có vẻ đã chán rồi",
+		"tradeRequest": "bọn pháp chúng tao có rất nhiều món đồ thú vị để trao đổi!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "thực dân",
+		"cities": ["paris" "thành phố pháp 2" "thành phố pháp 3" "thành phố pháp 4" "thành phố pháp 5"]
 	}
 ]
