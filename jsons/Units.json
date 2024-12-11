@@ -1,17 +1,32 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"name": "lính ngự lâm",
+		"unitType": "melee",
+		"uniqueTo": "France",
+		"replaces": "musketeer",
+		"movement": 3,
+		"strength": 120,
+		"meleeStrength": 60,
+		"range": 1,
+		"cost": 300,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions": ["volley","medic","extended range","cover 1"],
+		"attackSound": "shot"
+	}
+]
+[
+	{
+		"name": "pháo",
+		"unitType": "seige",
+		"uniqueTo": "France",
+		"replaces": "cannon",
+		"movement": 3,
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 2,
+		"cost": 300,
+		"requiredTech": "Ballistics",
+		"promotions": ["shock 1","shock 2","volley","medic","extended range"],
+		"attackSound": "shot"
 	}
 ]
