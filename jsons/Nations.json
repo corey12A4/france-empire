@@ -2,12 +2,12 @@
 	{
 		"name": "đế quốc pháp",
 		"leaderName": "pháp",
-		"adjective": ["alien"],
+		"adjective": ["france"],
 		"startBias": ["grassland"],
 		"preferredVictoryType": "domination",
 		
-		"startIntroPart1": "thuộc địa!!! xông lên! bù nhìn và nô lệ!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "thuộc địa!!! xông lên! bù nhìn và nô lệ miễn phi của ta!",
+		"startIntroPart2": "đất! đất kìa! LÍNH ĐÂU?! XÔNG LÊN CƯỚP NƯỚC, BẮT LŨ DÂN ĐÓ LÀM NÔ LỆ!!!",
 		
 		"declaringWar": "kháng cự là vô ích, mày có nghe tiếng súng của bọn ngự lâm ở ngoài thành mày không?",
 		"attacked": "thế là mày chưa thấy bọn lính ngự lâm đầy kỉ luật của bọn tao rồi!",
@@ -30,6 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "thực dân",
+		"unique": ["+25% strength when attacking on foreign tiles",
 		"cities": ["paris", "thành phố pháp 2", "thành phố pháp 3", "thành phố pháp 4", "thành phố pháp 5"]
 	}
 ]
