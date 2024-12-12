@@ -10,12 +10,9 @@
 		"range": 1,
 		"cost": 300,
 		"requiredTech": "gunpowder",
+		"unique": ["+25% strength when attacking on foreign tiles"],
 		"promotions": ["volley","medic","extended range","cover 1"],
-	
-	}
-]
-[
-	{
+			
 		"name": "pháo",
 		"unitType": "seige",
 		"uniqueTo": "France",
@@ -25,8 +22,8 @@
 		"rangedStrength": 60,
 		"range": 2,
 		"cost": 300,
-		"requiredTech": "Ballistics",
+		"requiredTech": "chemistry",
+		"unique": ["+25% strength when attacking on foreign tiles"],
 		"promotions": ["shock 1","shock 2","volley","medic","extended range"],
-		"attackSound": "shot"
 	}
 ]
