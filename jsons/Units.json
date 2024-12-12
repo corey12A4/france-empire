@@ -6,12 +6,12 @@
 		"replaces": "musketeer",
 		"movement": 3,
 		"strength": 120,
-		"meleeStrength": 60,
+		"rangedStrength": 30
 		"range": 1,
 		"cost": 300,
-		"requiredTech": "Ballistics",
+		"requiredTech": "gunpowder",
 		"promotions": ["volley","medic","extended range","cover 1"],
-		"attackSound": "shot"
+	
 	}
 ]
 [
